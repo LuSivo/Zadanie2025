@@ -20,7 +20,8 @@ Tento projekt je implementovaný v jazyku **Python 3.8+** a vyžaduje nasledujú
 Inštalácia (napr. pomocou `pip`):
 
 ## Spustenie
-python main.py
+python DaniloSivak.py
+
 Po spustení sa otvorí PyBullet GUI s robotom Franka Emika Panda a vykreslí sa 3D pracovný priestor
 
 ## Prínos
